@@ -21,6 +21,7 @@ This is a Laravel-based starter template designed to accelerate development with
 - Composer
 - Node.js and npm
 - SQLite (for local development)
+- LLM API KEY (GEMINI , OpenAI)
 
 ---
 
