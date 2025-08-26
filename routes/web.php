@@ -2,5 +2,5 @@
 
 use Livewire\Volt\Volt;
 
-Volt::route('/', 'users.index');
+Volt::route('/', 'index');
 Volt::route('/credentails', 'credentails');
