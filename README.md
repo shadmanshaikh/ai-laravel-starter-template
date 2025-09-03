@@ -4,7 +4,7 @@ This is a Laravel-based starter template designed to accelerate development with
 
 
 ---
-## Requirements
+## Language Requirements
 
 - **PHP** : 8.3.xx
 - **Composer** : 2.8.xx
