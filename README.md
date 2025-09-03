@@ -1,8 +1,16 @@
 # AI Laravel Starter Template
 
-This is a Laravel-based starter template designed to accelerate development with modern tools and best practices. It includes pre-configured packages, a robust folder structure, and support for theming and dynamic UI components.
+This is a Laravel-based starter template designed to accelerate development with modern tools and best practices. It includes pre-configured packages, a robust folder structure, and support for theming and dynamic UI components. (TALL STACK) 
+
 
 ---
+## Requirements
+
+- **PHP** : 8.3.xx
+- **Composer** : 2.8.xx
+- **Laravel** : 12.x
+- **Livewire** : 3.x
+- **MaryUI** : 2.x
 
 ## Features
 
