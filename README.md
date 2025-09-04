@@ -32,6 +32,8 @@ This is a Laravel-based starter template designed to accelerate development with
 - LLM API KEY (GEMINI , OpenAI)
 
 ---
+## Screenshots
+![screenshot.png](https://github.com/shadmanshaikh/ai-laravel-starter-template/blob/main/imgs/screenshot.png)
 
 ## Installation
 
